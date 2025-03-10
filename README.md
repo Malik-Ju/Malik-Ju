@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Malik-Ju
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**👋 Hi, I’m Malik J**  
+🚀 **Microsoft Dynamics 365 Developer | CRM & ERP Specialist**  
 
-<!---
-Malik-Ju/Malik-Ju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**👀 I’m interested in...**  
+- Microsoft Dynamics 365 (CRM & ERP)  
+- Power Platform (PowerApps, Power Automate, Power BI)  
+- Customizing & Extending Dynamics with C#, .NET & JavaScript  
+- Azure Integrations & Cloud Solutions for Dynamics 365  
+- Business Process Automation & Workflow Optimization  
+
+**🌱 I’m currently learning...**  
+- Advanced Dynamics 365 Development & Customization  
+- AI & Machine Learning in Business Applications  
+- Cloud-Native Dynamics Deployments with Azure  
+- Power Platform & Low-Code App Development  
+
+**💞️ I’m looking to collaborate on...**  
+- Automating & optimizing business workflows using Dynamics 365  
+- Custom integrations & extensions for CRM/ERP systems  
+- Data analytics & reporting solutions for enterprise businesses   
+
+**⚡ Fun fact:**  
+I make business processes so efficient that even Dynamics 365 runs smoother! ⚙️🚀  
